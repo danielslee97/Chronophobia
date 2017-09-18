@@ -6,3 +6,8 @@ The main objective of the game is for you to find the four keys or phrases to un
 Can you escape??
 
 Read the manual for more information...
+
+Contributors: 
+  Ron Gunczler
+  David Hoover
+  Troy Vasilakis
